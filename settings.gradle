@@ -3,4 +3,4 @@ pluginManagement {
 		gradlePluginPortal()
 	}
 }
-rootProject.name = 'aws-two'
+rootProject.name = 'aws-lambda-apigateway-sample1'
